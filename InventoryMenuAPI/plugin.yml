@@ -1,0 +1,5 @@
+name: InventoryMenuAPI
+main: com.chrono7.inventorymenuapi.InventoryMenuManager
+version: 0.1
+authors:
+    - Chrono7
